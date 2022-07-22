@@ -1,7 +1,7 @@
 **<h2 align="center">👋 Welcome to my Profile ! 😁</h2>**
 
 <h3 align="center">
-  - 👋 Hi, I’m @pedro-ryan -<br><br>
+  - 👋 Hi, I’m @pedro-ryan 😊 -<br><br>
   - 👀 I’m interested in learning as much as possible 🙂 -<br><br>
   - 🌱 I’m currently learning
   [
@@ -13,7 +13,7 @@
       "Typescript"
     </font>
   ]
-  -<br>
+  😏 -<br>
 </h2>
 
 ___
