@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @pedro-ryan
-- 👀 I’m interested in learning as much as possible :D
-- 🌱 I’m currently learning ["Node js", "React"]
-<!---
-  - 💞️ I’m looking to collaborate on ...
-  - 📫 How to reach me ...
---->
+___
+___
+**<h2 align="center">👋 Welcome to my Profile ! 😁</h2>**
 
-<!---
-pedro-ryan/pedro-ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+---
+
+<h2 align="center">- 👋 Hi, I’m @pedro-ryan -</h2>
+<h2 align="center">- 👀 I’m interested in learning as much as possible 🙂 -</h2>
+<h2 align="center">
+  - 🌱 I’m currently learning
+  [
+    <font color="yellow">
+      "c"
+      <font color="white">,</font>
+      "c++"
+      <font color="white">,</font>
+      "Typescript"
+    </font>
+  ]
+  -
+</h2>
+
+---
+---
+```php
+ __         ______     ______   ______        ______     ______     _____     ______      ___ 
+/\ \       /\  ___\   /\__  _\ /\  ___\      /\  ___\   /\  __ \   /\  __-.  /\  ___\    /\  \
+\ \ \____  \ \  __\   \/_/\ \/ \ \___  \     \ \ \____  \ \ \/\ \  \ \ \/\ \ \ \  __\    \ \__\
+ \ \_____\  \ \_____\    \ \_\  \/\_____\     \ \_____\  \ \_____\  \ \____-  \ \_____\   \/__/__
+  \/_____/   \/_____/     \/_/   \/_____/      \/_____/   \/_____/   \/____/   \/_____/      /\__\
+                                                                                             \/__/
+```
+___
+___
