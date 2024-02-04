@@ -20,6 +20,8 @@
   👀 I’m interested in learning as much as possible
 </p>
 
+<br>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -81,13 +83,12 @@
   </a> 
 </p>
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pedro-ryan&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedro-ryan&theme=codeSTACKr)
+<h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ryan&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ryan&theme=codeSTACKr"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ryan&theme=codeSTACKr&layout=compact"/>
 </p>
 
