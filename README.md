@@ -89,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedro-ryan&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ryan&theme=codeSTACKr"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ryan&theme=codeSTACKr&layout=compact"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ryan&theme=codeSTACKr&layout=compact"/> -->
 </p>
 
 <p align="center">
