@@ -3,9 +3,9 @@
 <!-- <h3 align="center">A student developer from Brazil</h3> -->
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/pedro-ryan" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
+  <code><a href="https://linkedin.com/in/pedro-ryan" title="LinkedIn Profile"><img width="22" src="https://skillicons.dev/icons?i=linkedin"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/pedro_ryan" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"> HackerRank</a></code>
-  <code><a href="https://instagram.com/p.ryan_crn" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
+  <code><a href="https://instagram.com/p.ryan_crn" title="Instagram Profile"><img width="22" src="https://skillicons.dev/icons?i=instagram"> Instagram</a></code>
 </h5>
 
 <br>
@@ -23,7 +23,12 @@
 <br>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<p align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,electron,express,react,svelte,sass,tailwind,md,firebase,docker,bots,figma,ps,vscode" />
+  </a>
+</p>
+<!-- <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </code>
   </a> 
@@ -81,7 +86,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </code>
   </a> 
-</p>
+</p> -->
 
 <br>
 
