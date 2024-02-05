@@ -25,7 +25,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,electron,express,react,svelte,sass,tailwind,md,firebase,docker,bots,figma,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,electron,express,react,svelte,sass,tailwind,md,firebase,docker,bots,figma,ps,vscode&perline=9" />
   </a>
 </p>
 <!-- <p align="center"> 
