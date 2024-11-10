@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  🔭 I’m currently working on <b>a private Whatsapp bot to a soccer tournament</b>
+  🔭 I’m currently working on <b>a simple educational game to a school</b>
 </p>
 <p align="center">
   🌱 I’m currently learning <b>React, NodeJS, Rust and Bun</b>
